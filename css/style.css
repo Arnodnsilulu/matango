@@ -2396,4 +2396,14 @@ a:focus, a:hover {
   }
 }
 
+/* modification de la couleur  */
+.couleur{
+  color: #ff7f27 !important;
+}
+
+
+.couleurB{
+  background-color: #ff7f27 !important;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
